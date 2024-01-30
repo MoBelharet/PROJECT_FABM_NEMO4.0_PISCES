@@ -46,7 +46,7 @@
   <field id="fer_fe_w" long_name="iron concentration in iron units vertical velocity" unit="m/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
   <field id="dom_c_sms" long_name="dissolved organic matter concentration in carbon units sources-sinks" unit="mol C L-1/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
   <field id="dom_c_w" long_name="dissolved organic matter concentration in carbon units vertical velocity" unit="m/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
-  <field id="pom_ws" long_name="small particulate organic matter sinking velocity" unit="m d-1" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="pom_ws" long_name="small particulate organic matter sinking velocity" unit="m d-1" default_value="0.200E+01" grid_ref="grid_T_3D" />
   <field id="pom_c_sms" long_name="small particulate organic matter carbon concentration sources-sinks" unit="mol C L-1/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
   <field id="pom_c_w" long_name="small particulate organic matter carbon concentration vertical velocity" unit="m/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
   <field id="pom_fe_sms" long_name="small particulate organic matter iron concentration sources-sinks" unit="mol Fe L-1/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
@@ -88,7 +88,7 @@
   <field id="pom_c_prod13" long_name="small particulate organic matter produced particulate organic carbon in lability class 13" unit="mol C L-1" default_value="-.200E+21" grid_ref="grid_T_3D" />
   <field id="pom_c_prod14" long_name="small particulate organic matter produced particulate organic carbon in lability class 14" unit="mol C L-1" default_value="-.200E+21" grid_ref="grid_T_3D" />
   <field id="pom_c_prod15" long_name="small particulate organic matter produced particulate organic carbon in lability class 15" unit="mol C L-1" default_value="-.200E+21" grid_ref="grid_T_3D" />
-  <field id="gom_ws" long_name="large particulate organic matter sinking velocity" unit="m d-1" default_value="0.000E+00" grid_ref="grid_T_3D" />
+  <field id="gom_ws" long_name="large particulate organic matter sinking velocity" unit="m d-1" default_value="0.500E+02" grid_ref="grid_T_3D" />
   <field id="gom_c_sms" long_name="large particulate organic matter carbon concentration sources-sinks" unit="mol C L-1/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
   <field id="gom_c_w" long_name="large particulate organic matter carbon concentration vertical velocity" unit="m/s" default_value="0.000E+00" grid_ref="grid_T_3D" />
   <field id="gom_fe_sms" long_name="large particulate organic matter iron concentration sources-sinks" unit="mol Fe L-1/s" default_value="0.000E+00" grid_ref="grid_T_3D" />

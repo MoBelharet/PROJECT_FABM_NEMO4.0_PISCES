@@ -109,8 +109,8 @@
           <field field_ref="dia_ztortp"   name="ztortp" />
           <field field_ref="dia_xksi_diag"   name="xksi" /-->
 
-          <field field_ref="dia_Mu"    name="MuD" />
-          <field field_ref="dia_PPPHY"  name="TPP_dia" />
+          <!--field field_ref="dia_Mu"    name="MuD" />
+          <field field_ref="dia_PPPHY"  name="TPP_dia" /-->
 
           <!--field field_ref="dia_LN"  name="zlim1" />
           <field field_ref="dia_LP"  name="zlim2" />
@@ -119,10 +119,10 @@
 
           <!--field field_ref="dia_PFe"  name="PFeD" /-->
 
-          <field field_ref="zoo_grazp" name="graz1p" />
-          <field field_ref="zoo_grazd" name="graz1d" />
+          <!--field field_ref="zoo_grazp" name="graz1p" /-->
+          <!--field field_ref="zoo_grazd" name="graz1d" />
           <field field_ref="mes_grazp" name="graz2p" />
-          <field field_ref="mes_grazd" name="graz2d" />
+          <field field_ref="mes_grazd" name="graz2d" /-->
           
           <!--field field_ref="mes_quotan_diag" name="quotan" /-->
 

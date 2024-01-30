@@ -89,11 +89,11 @@
 
         <file id="file6" name_suffix="_diad_T" description="additional lobster diagnostics" >
 
-          <!--field field_ref="PAR"    name="PAR" />
+          <field field_ref="PAR"    name="PAR" />
           <field id="PARDM"   name="etot_ndcy" />
           <field field_ref="xdiss"  name="shear_rate" />
           <field field_ref="Heup"  name="heup" />
-          <field field_ref="Heup_01"  name="heup_01" />
+          <!--field field_ref="Heup_01"  name="heup_01" />
           <field field_ref="qsr_mean"  name="qsr_mean" />
           <field field_ref="qsr"  name="qsr" />
           <field field_ref="pqsr100" name="pqsr100" />
@@ -102,9 +102,9 @@
           <field field_ref="pe3"  name="pe3" />
           <field field_ref="zchl"  name="Tchl" /-->
 
-          <!--field field_ref="zsiremin"      name="zsiremin"/>
+          <field field_ref="zsiremin"      name="zsiremin"/>
           <field field_ref="zosil"     name="zosil" />
-          <field field_ref="zfacsib"        name="zfacsib"/>
+          <!--field field_ref="zfacsib"        name="zfacsib"/>
           <field field_ref="zfacsi"        name="zfacsi"  />
           <field field_ref="znusil"        name="znusil"  />
           <field field_ref="zomegaca"    name="zomegaca"  /-->
@@ -115,20 +115,20 @@
           <field field_ref="wsbio4"  name="wsbio4" />
           <field field_ref="xksi"   name="xksi" /-->
 
-          <field field_ref="MuD"  name="MuD"  />
-          <field field_ref="TPP"  name="TPP_dia" />
+          <!--field field_ref="MuD"  name="MuD"  />
+          <field field_ref="TPP"  name="TPP_dia" /-->
 
-          <!--field field_ref="zlim1"  name="zlim1" />
+          <field field_ref="zlim1"  name="zlim1" />
           <field field_ref="zlim2"  name="zlim2" />
-          <field field_ref="zlim3"  name="zlim3" />
+          <!--field field_ref="zlim3"  name="zlim3" />
           <field field_ref="zlim4"  name="zlim4" /-->
 
-          <!--field field_ref="PFeD"   name="PFeD" /-->
+          <field field_ref="PFeD"   name="PFeD" />
 
           <field field_ref="graz1p"  name="graz1p" />
-          <field field_ref="graz1d"  name="graz1d" />
+          <!--field field_ref="graz1d"  name="graz1d" />
           <field field_ref="graz2p"  name="graz2p" />
-          <field field_ref="graz2d"  name="graz2d" />
+          <field field_ref="graz2d"  name="graz2d" /-->
           <!--field field_ref="quotan"  name="quotan" /-->
 
 

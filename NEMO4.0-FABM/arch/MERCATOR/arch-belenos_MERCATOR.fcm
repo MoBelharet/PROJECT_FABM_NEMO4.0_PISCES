@@ -18,7 +18,7 @@
 # #-xAVX
 #
 %NCDF_INC            -I$NETCDF_INC
-%NCDF_LIB            -L$NETCDF_LIB -lnetcdff -lnetcdf -L$HDF5_LIB -lhdf5_hl -lhdf5 -lz
+%NCDF_LIB            -L$NETCDF_LIB -lnetcdff -lnetcdf -lhdf5_hl -lhdf5 -lz
 
 %CPP	             cpp
 %FC                  mpiifort -fpp
